@@ -1,0 +1,14 @@
+C:\Users\Acer\source\repos\TestModul\bin\Debug\net8.0\TestModul.exe
+C:\Users\Acer\source\repos\TestModul\bin\Debug\net8.0\TestModul.deps.json
+C:\Users\Acer\source\repos\TestModul\bin\Debug\net8.0\TestModul.runtimeconfig.json
+C:\Users\Acer\source\repos\TestModul\bin\Debug\net8.0\TestModul.dll
+C:\Users\Acer\source\repos\TestModul\bin\Debug\net8.0\TestModul.pdb
+C:\Users\Acer\source\repos\TestModul\obj\Debug\net8.0\TestModul.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\source\repos\TestModul\obj\Debug\net8.0\TestModul.AssemblyInfoInputs.cache
+C:\Users\Acer\source\repos\TestModul\obj\Debug\net8.0\TestModul.AssemblyInfo.cs
+C:\Users\Acer\source\repos\TestModul\obj\Debug\net8.0\TestModul.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\TestModul\obj\Debug\net8.0\TestModul.dll
+C:\Users\Acer\source\repos\TestModul\obj\Debug\net8.0\refint\TestModul.dll
+C:\Users\Acer\source\repos\TestModul\obj\Debug\net8.0\TestModul.pdb
+C:\Users\Acer\source\repos\TestModul\obj\Debug\net8.0\TestModul.genruntimeconfig.cache
+C:\Users\Acer\source\repos\TestModul\obj\Debug\net8.0\ref\TestModul.dll
